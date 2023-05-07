@@ -1,1 +1,3 @@
-document.querySelectorAll('h1');
+document.querySelectorAll("h1");
+
+document.querySelector("h2");
